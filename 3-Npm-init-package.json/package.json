@@ -1,0 +1,14 @@
+{
+  "name": "primeros_pasos",
+  "version": "1.0.0",
+  "description": "Primeros pasos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "console_prueba": "echo 'Hola mundo!' && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
