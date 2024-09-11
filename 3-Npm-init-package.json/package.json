@@ -4,11 +4,12 @@
   "description": "Primeros pasos",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
+    "dev": "nodemon src/index.js",
     "console_prueba": "echo 'Hola mundo!' && npm run dev"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
-
-
