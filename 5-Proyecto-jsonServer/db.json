@@ -1,0 +1,48 @@
+{
+    "profesores":[
+        {
+            "nombre": "Pablo",
+            "apellido": "Szulman",
+            "materias":[
+                {
+                    "nombre": "NodeJS"
+                },
+                {
+                    "nombre": "Angular"
+                },
+                {
+                    "nombre": "Java"
+                }
+            ]
+        }
+    ],
+    "alumnos":[
+        {
+            "nombre": "Maria",
+            "apellido": "Rodriguez",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "promedio": 4.3
+        }
+    ],
+    "cursos":[
+        {
+            "nombre": "NodeJS",
+            "duracion": 7,
+            "dificultad": "intermedio"
+        },
+        {
+            "nombre": "Unity",
+            "duracion": 9,
+            "dificultad": "dificil"
+        },
+        {
+            "nombre": "C++",
+            "duracion": 5,
+            "dificultad": "dificil"
+        }
+    ]
+}
