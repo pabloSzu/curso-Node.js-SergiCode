@@ -1,5 +1,6 @@
 const express = require('express')
-const apth = require('path')
+const path = require('path')
+//EN LA NUEVA FORMA se usa modularizacion por lo que se pone ->  import path = require('path')
 
 const startServer = (options) => {
     const { port, public_path = 'public'} = options
